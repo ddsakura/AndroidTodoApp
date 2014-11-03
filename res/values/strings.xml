@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Todo App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="submit_label">Add</string>
+    <string name="todo_hint">Enter new item</string>
+
+</resources>
